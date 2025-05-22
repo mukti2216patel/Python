@@ -1,0 +1,56 @@
+Pandas Basics
+
+Pandas Intro
+Pandas Getting Started
+Pandas Series
+Pandas DataFrames
+Reading and Writing Data
+
+Reading CSV
+Reading JSON
+Writing DataFrames to CSV/JSON
+Data Exploration and Analysis
+
+Analyzing Data
+Descriptive Statistics
+Data Types and Information
+Value Counts
+Data Cleaning
+
+Cleaning Empty Cells
+Cleaning Wrong Format
+Cleaning Wrong Data
+Removing Duplicates
+Handling Missing Data (imputation, interpolation)
+Data Validation
+Data Manipulation
+
+Data Reshaping (melt, pivot)
+GroupBy and Aggregation
+Merging and Joining DataFrames
+Concatenating DataFrames
+String Manipulation
+Filtering and Slicing
+Feature Engineering
+
+Creating New Features
+Encoding Categorical Variables
+Time Series Feature Extraction
+Time Series Analysis
+
+Working with Datetime Objects
+Resampling and Frequency Conversion
+Time Series Operations
+Advanced Techniques
+
+Custom Functions with apply()
+Efficient Iteration Techniques
+Memory Optimization (data types, category)
+Correlation and Covariance
+
+Calculating Correlations
+Understanding Covariance
+Data Visualization
+
+Basic Plotting with Pandas
+Integration with Matplotlib and Seaborn
